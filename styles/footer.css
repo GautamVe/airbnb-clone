@@ -1,0 +1,103 @@
+.main-footer {
+  padding: 1rem;
+  border-top: 1px solid rgb(222, 222, 222);
+  background-color: rgb(250, 223, 223);
+}
+.footer-heading {
+  height: 100%;
+  font-weight: 600;
+  padding: 1rem 1rem;
+  font-size: 23px;
+  
+
+}
+.footer-heading2 {
+  width: 100%;
+  padding: 1rem;
+  border-style: none;
+  
+
+}
+.footer-heading2 button {
+  padding: 6px;
+  font-size: 15px;
+  border: none;
+  color: gray;
+  background-color: rgb(250, 223, 223);
+  gap: 3rem;
+}
+.Things-to-do-footer2 {
+  padding: 1rem;
+  width: 100%;
+  border-top: 1px solid rgb(222, 222, 222);
+}
+
+.row-address {
+  width: 90%;
+  display: flex;
+ 
+}
+.main-address1 {
+  width: 30%;
+  /* height: auto; */
+  font-weight: 580;
+  list-style: none;
+  
+}
+.add2 {
+  color: gray;
+  font-size: 13px;
+}
+.third-footer {
+  width: 100%;
+border-top: 1px solid rgb(222, 222, 222);
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  padding: 1rem 1rem;
+}
+.support-footer-1 {
+  list-style: none;
+  width: 20%;
+ 
+}
+
+.first-support {
+  font-weight: 700;
+  list-style: none;
+}
+.link-of-support a {
+  color: grey;
+  font-size: 13px;
+  text-decoration:none;
+}
+.fourth-division {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+   padding: 1.5rem;
+}
+.airbnb-Inc {
+  font-size: 14px;
+  width: 80%;
+}
+.airbnb-Inc svg {
+  width: 28px;
+  height: 100%;
+  padding: 0rem 1rem 0rem 0rem;
+}
+.language-icon {
+  width: 20%;
+  height: 100%;
+}
+.lang-logo {
+  border: none;
+}
+.lang-logo svg {
+  width: 20%;
+  height: 50%;
+}
+.lang-logo a{
+  text-decoration: none;
+}
